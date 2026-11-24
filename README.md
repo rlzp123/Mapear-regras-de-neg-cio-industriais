@@ -1,1 +1,0 @@
-# Mapear-regras-de-neg-cio-industriais
