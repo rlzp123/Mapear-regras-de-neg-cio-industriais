@@ -1,5 +1,4 @@
-# Industrial Control Tower
-## Mapeamento de regras de negócio industriais
+👨‍🏭  ## Mapeamento de regras de negócio industriais
 
 Este repositório reúne as regras iniciais que deverão orientar o funcionamento do sistema. Elas consideram uma operação industrial de fabricação de cabos e ajudam a definir como pedidos, estoque, produção e logística se relacionam.
 
